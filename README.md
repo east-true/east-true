@@ -1,4 +1,3 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <div align="center">
 	<h1>Tech Stack</h1>
 	<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
